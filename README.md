@@ -5,7 +5,7 @@
 - フォローしてくれたり...micro:bitのプログラムで遊んでもらえると嬉しいです
 - バグや要望はツイッター(＠KAKURITU_P)でメンションしてくれたら頑張って実装したいと思います
 
-‐ よきmicro:bit　らいふを！！
+## よきmicro:bit　ライフを！！
 
 <!---
 KAKURITU-P/KAKURITU-P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
