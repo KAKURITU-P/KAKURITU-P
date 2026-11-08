@@ -2,17 +2,6 @@
 
 確率P(＠KAKURITU-P)です
 
-最近はmicro:bitで遊んでます
-  
-フォローしてくれたり...micro:bitのプログラムで遊んでもらえると嬉しいです
-
-バグや要望はツイッター(＠KAKURITU_P)でメンションしてくれたら頑張って実装したいと思います
-
-## よきmicro:bit　ライフを！！
-
-## 追記
-最近はラズパイとかで遊んだりしてるからよろしく
-バイブコーディングも使ってるから注意
 
 <!---
 KAKURITU-P/KAKURITU-P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
