@@ -15,7 +15,7 @@
 
 Q1, 性癖は？ **[質問者: 千本木碧音](https://github.com/AoneSenbongi)**
 
-A, **(black≧”haircolor"≧brown or "haircolor"=white)and(元気 or 面白い) 女の子(ただし二次元に限る)**※マストではない
+A, **(black≧”haircolor"≧brown or "haircolor"=white)and(元気 or 面白い) 女の子(ただし二次元に限る)**</br>※マストではない
 
 <details>
 <summary>一部例示</summary>
