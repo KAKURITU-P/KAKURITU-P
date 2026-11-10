@@ -11,6 +11,20 @@
 
 ### 寝てるほうーー＞[@kakuritupzzz](https://x.com/kakuritupZzz)
 
+# 質問コーナー（ぱちぱち～～～！！！）
+
+Q1, 性癖は？ **[質問者: 千本木碧音](https://github.com/AoneSenbongi)**
+
+A, **(black≧”haircolor"≧brown or "haircolor"=white)and(元気 or 面白い) 女の子(ただし二次元に限る)**※マストではない
+
+<details>
+<summary>一部例示</summary>
+
+##etc...金剛改二(艦これ),卯ノ花佐久夜姫(天神乱漫),夕霧ナナカ(ティンクル☆くるせいだーす)
+
+</details>
+
+
 
 
 ## おまけ画像（VRChat）
