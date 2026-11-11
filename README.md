@@ -11,7 +11,7 @@
 
 ### 寝てるほうーー＞[@kakuritupzzz](https://x.com/kakuritupZzz)
 
-# 質問コーナー（ぱちぱち～～～！！！）
+# 質問コーナー（ぱちぱち～～～！！！…？）
 
 Q1, 性癖は？ **質問者: [千本木碧音](https://github.com/AoneSenbongi)**
 
