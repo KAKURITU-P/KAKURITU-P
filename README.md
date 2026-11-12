@@ -11,7 +11,11 @@
 
 ### 寝てるほうーー＞[@kakuritupzzz](https://x.com/kakuritupZzz)
 
-# 質問コーナー（ぱちぱち～～～！！！…？）
+<details>
+<summary>
+<h2>質問コーナー（ぱちぱち～～～！！！…？） 
+</summary>
+
 
 Q1, 性癖は？ **質問者: [千本木碧音](https://github.com/AoneSenbongi)**
 
@@ -25,6 +29,8 @@ A, **(black≧”haircolor"≧brown or "haircolor"=white)and(元気 or 面白い
 ・[卯ノ花佐久夜姫](https://dic.pixiv.net/a/%E5%8D%AF%E8%8A%B1%E4%B9%8B%E4%BD%90%E4%B9%85%E5%A4%9C%E5%A7%AB)(天神乱漫)
 
 ・[夕霧ナナカ](https://dic.pixiv.net/a/%E5%A4%95%E9%9C%A7%E3%83%8A%E3%83%8A%E3%82%AB)(ティンクル☆くるせいだーす)
+
+</details>
 
 </details>
 
