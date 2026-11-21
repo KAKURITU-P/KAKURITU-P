@@ -26,7 +26,7 @@ A, **(black≧”haircolor"≧brown or "haircolor"=white)and(元気 or 面白い
 
 ・[金剛改二](https://dic.pixiv.net/a/%E9%87%91%E5%89%9B%E6%94%B9%E4%BA%8C)(艦これ)
 
-・[卯ノ花佐久夜姫](https://dic.pixiv.net/a/%E5%8D%AF%E8%8A%B1%E4%B9%8B%E4%BD%90%E4%B9%85%E5%A4%9C%E5%A7%AB)(天神乱漫)
+・[卯ノ花佐久夜姫](https://dic.pixiv.net/a/%E5%8D%AF%E8%8A%B1%E4%B9%8B%E4%BD%90%E4%B9%85%E5%A4%9C%E5%A7%AB)(天神乱漫)←現アイコンの娘
 
 ・[夕霧ナナカ](https://dic.pixiv.net/a/%E5%A4%95%E9%9C%A7%E3%83%8A%E3%83%8A%E3%82%AB)(ティンクル☆くるせいだーす)
 
